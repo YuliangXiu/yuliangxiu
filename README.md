@@ -7,7 +7,7 @@ I am currently a 2nd-Year CS Ph.D. student, working at Max Planck Institute for 
 
 My research interests span the fields of **Computer Vision and Graphics**, especially in **3D Human Digitalization** (i.e., Reconstruction, Modeling, Animation) and **2D Human Pose Estimation and Tracking**. 
 
-Seeking for collaboration in such fields, feel free to reach out to me via [Email](mailto:yuliang.xiu@tuebingen.mpg.de)
+Seeking for collaboration in such fields, feel free to reach out to me via <a href="mailto:yuliang.xiu@tuebingen.mpg.de?subject=intention of cooperation from [name]-[title]-[institute]">Email</a>
 
 <!-- ![](https://github-readme-stats-one-bice.vercel.app/api?username=yuliangxiu&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR) -->
 
