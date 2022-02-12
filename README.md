@@ -8,11 +8,13 @@ I am currently a 2nd-Year CS Ph.D. student, working in Perceiving Systems, Max P
 
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/7944350/153691460-5157b0f9-5026-4ae3-8c29-72e83271786b.gif" height=150px></td>
-    <td><img src="https://user-images.githubusercontent.com/7944350/153691473-651f5c22-582e-4d98-9bfe-83574bd31af4.gif" height=150px></td>
+    <td><img src="https://user-images.githubusercontent.com/7944350/153691460-5157b0f9-5026-4ae3-8c29-72e83271786b.gif" height=150px width=280px></td>
+    <td><img src="https://user-images.githubusercontent.com/7944350/153691473-651f5c22-582e-4d98-9bfe-83574bd31af4.gif" height=150px width=280px></td>
+    <td><img src="https://user-images.githubusercontent.com/7944350/153692020-53674e61-073c-46ea-bf60-d6b583556b3c.gif" height=150px width=280px></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/7944350/153691477-aad7064b-a36c-4d73-bb03-95d01bc08e13.gif" height=150px></td>
-    <td><img src="https://user-images.githubusercontent.com/7944350/153691479-4186d4a8-b11a-4aee-9ae7-082f7dabb318.gif" height=150px></td>
+    <td><img src="https://user-images.githubusercontent.com/7944350/153691477-aad7064b-a36c-4d73-bb03-95d01bc08e13.gif" height=150px width=280px></td>
+    <td><img src="https://user-images.githubusercontent.com/7944350/153691479-4186d4a8-b11a-4aee-9ae7-082f7dabb318.gif" height=150px width=280px></td>
+    <td><img src="https://user-images.githubusercontent.com/7944350/153692331-548cd112-ba9c-4b4b-b7d9-6fe32fe3d8de.gif" height=150px width=280px></td>
   </tr>
 </table>
