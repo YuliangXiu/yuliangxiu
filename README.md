@@ -1,8 +1,13 @@
 [![](https://img.shields.io/badge/website-orange?&style=for-the-badge&logo=Google%20chrome&logoColor=white)](https://xiuyuliang.cn/)
-[![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?hl=zh-CN&user=9zAA9rQAAAAJ)
-![](https://img.shields.io/twitter/follow/yuliangxiu?style=social)
+[![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?hl=zh-CN&user=9zAA9rQAAAAJ)
+<br>
+[![](https://img.shields.io/twitter/follow/yuliangxiu?style=social)](https://twitter.com/intent/follow?screen_name=yuliangxiu)
 
-I am currently a 2nd-Year CS Ph.D. student, working in Perceiving Systems, Max Planck Institute for Intelligent Systems. As a **virtual avatar researcher**, I enjoy playing with pixels and voxels. My research interest mainly lies in the intersection of computer vision and computer graphics, especially in **3D Human Digitalization** (i.e., Reconstruction, Modeling, Animation) and **2D Human Pose Estimation and Tracking**.
+I am currently a 2nd-Year CS Ph.D. student, working at Max Planck Institute for Intelligent Systems. 
+
+My research interests span the fields of **Computer Vision and Graphics**, especially in **3D Human Digitalization** (i.e., Reconstruction, Modeling, Animation) and **2D Human Pose Estimation and Tracking**. 
+
+Seeking for collaboration in such fields, feel free to reach out to me via [Email](mailto:yuliang.xiu@tuebingen.mpg.de)
 
 <!-- ![](https://github-readme-stats-one-bice.vercel.app/api?username=yuliangxiu&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR) -->
 
