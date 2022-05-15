@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/website-orange?&style=for-the-badge&logo=Google%20chrome&logoColor=white)](https://xiuyuliang.cn/)
 [![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?hl=zh-CN&user=9zAA9rQAAAAJ)
-<br>
-[![](https://img.shields.io/twitter/follow/yuliangxiu?style=social)](https://twitter.com/intent/follow?screen_name=yuliangxiu)
+[![](https://img.shields.io/twitter/follow/yuliangxiu?style=for-the-badge&logo=Twitter&labelColor=00acee&logoColor=white&color=2bc4ff)](https://twitter.com/yuliangxiu)
+[![](https://img.shields.io/youtube/channel/views/UCicL0Co86tGbzoV2heWiEaA?logo=youtube&labelColor=ce4630&style=for-the-badge)](https://www.youtube.com/channel/UCicL0Co86tGbzoV2heWiEaA)
 
 I am currently a 2nd-Year CS Ph.D. student, working at Max Planck Institute for Intelligent Systems. 
 
