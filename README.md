@@ -3,9 +3,9 @@
 [![](https://img.shields.io/twitter/follow/yuliangxiu?style=for-the-badge&logo=Twitter&labelColor=00acee&logoColor=white&color=2bc4ff)](https://twitter.com/yuliangxiu)
 [![](https://img.shields.io/youtube/channel/views/UCicL0Co86tGbzoV2heWiEaA?logo=youtube&labelColor=ce4630&style=for-the-badge)](https://www.youtube.com/channel/UCicL0Co86tGbzoV2heWiEaA)
 
-I am currently a 2nd-Year CS Ph.D. student, working at Max Planck Institute for Intelligent Systems. 
+I am currently a 2nd-Year CS Ph.D. student, working at Max Planck Institute for Intelligent Systems
 
-My research interests span the fields of **Computer Vision and Graphics**, especially in **3D Human Digitalization** (i.e., Reconstruction, Modeling, Animation) and **2D Human Pose Estimation and Tracking**. 
+My research interests span the fields of **Computer Vision and Graphics**, especially in **3D Human Digitalization** (i.e., Reconstruction, Modeling, Animation) and **2D Human Pose Estimation and Tracking**
 
 Seeking for collaboration in such fields, feel free to reach out to me via <a href="mailto:yuliang.xiu@tuebingen.mpg.de?subject=intention of cooperation from [name]-[title]-[institute]">Email</a>
 
