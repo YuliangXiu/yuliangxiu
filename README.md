@@ -23,3 +23,5 @@ Seeking for collaboration in such fields, feel free to reach out to me via <a hr
     <td><img src="https://user-images.githubusercontent.com/7944350/153692331-548cd112-ba9c-4b4b-b7d9-6fe32fe3d8de.gif" height=150px width=280px></td>
   </tr>
 </table>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=yuliangxiu.visitor-badge&left_color=red&right_color=green&left_text=Hi%20Visitors)
