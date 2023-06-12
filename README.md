@@ -19,4 +19,4 @@ I am currently a 3rd-Year CS Ph.D. student, working at Max Planck Institute for 
   </tr>
 </table>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=yuliangxiu.visitor-badge&left_color=red&right_color=green&left_text=Hi%20Visitors)
+![](https://komarev.com/ghpvc/?username=yuliangxiu&style=flat-square)
