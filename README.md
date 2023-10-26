@@ -9,7 +9,7 @@ I am currently a 3rd-Year CS Ph.D. student, working at Max Planck Institute for 
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
     <td><img src="https://user-images.githubusercontent.com/7944350/232624929-8d758e74-3695-4045-8687-f0bc4af0361b.gif" height=150px width=240px></td>
-    <td><img src="https://user-images.githubusercontent.com/7944350/232289227-e04a958f-dfc1-4bc8-8b1d-8bef9afbebba.gif" height=150px width=240px></td>
+    <td><img src="https://github.com/YuliangXiu/yuliangxiu/assets/7944350/ae860c0f-2d0e-448b-b80c-f4abaf3aa96b" height=150px width=240px></td>
     <td><img src="https://user-images.githubusercontent.com/7944350/232289180-fe063d86-7e85-4d5f-8e5a-cbd8f9638d71.gif" height=150px width=240px></td>
   </tr>
   <tr>
