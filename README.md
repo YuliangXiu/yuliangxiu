@@ -14,7 +14,7 @@ I am currently a 3rd-Year CS Ph.D. student, working at Max Planck Institute for 
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/7944350/153691477-aad7064b-a36c-4d73-bb03-95d01bc08e13.gif" height=150px width=240px></td>
-    <td><img src="https://user-images.githubusercontent.com/7944350/153691479-4186d4a8-b11a-4aee-9ae7-082f7dabb318.gif" height=150px width=240px></td>
+    <td><img src="https://github.com/YuliangXiu/yuliangxiu/assets/7944350/92963bc4-d250-4578-aa88-28c48cbd6364" height=150px width=240px></td>
     <td><img src="https://user-images.githubusercontent.com/7944350/153691473-651f5c22-582e-4d98-9bfe-83574bd31af4.gif" height=150px width=240px></td>
   </tr>
 </table>
