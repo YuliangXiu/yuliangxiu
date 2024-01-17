@@ -2,6 +2,7 @@
 [![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?hl=zh-CN&user=9zAA9rQAAAAJ)
 [![](https://img.shields.io/twitter/follow/yuliangxiu?style=for-the-badge&logo=Twitter&labelColor=00acee&logoColor=white&color=2bc4ff)](https://twitter.com/yuliangxiu)
 [![](https://img.shields.io/youtube/channel/views/UCicL0Co86tGbzoV2heWiEaA?logo=youtube&labelColor=ce4630&style=for-the-badge)](https://www.youtube.com/channel/UCicL0Co86tGbzoV2heWiEaA)
+![](https://komarev.com/ghpvc/?username=yuliangxiu&style=flat-square)
 
 
 <table style="margin-left:auto; margin-right:auto;">
@@ -16,5 +17,3 @@
     <td><img src="https://user-images.githubusercontent.com/7944350/153691473-651f5c22-582e-4d98-9bfe-83574bd31af4.gif" height=150px width=240px></td>
   </tr>
 </table>
-
-![](https://komarev.com/ghpvc/?username=yuliangxiu&style=flat-square)
