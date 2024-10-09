@@ -15,4 +15,9 @@
     <td><img src="https://github.com/YuliangXiu/yuliangxiu/assets/7944350/92963bc4-d250-4578-aa88-28c48cbd6364" height=150px width=240px></td>
     <td><img src="https://user-images.githubusercontent.com/7944350/153691473-651f5c22-582e-4d98-9bfe-83574bd31af4.gif" height=150px width=240px></td>
   </tr>
+  <tr>
+    <td><img src="https://github.com/MVIG-SJTU/AlphaPose/raw/master/docs/alphapose_17.gif" height=150px width=240px></td>
+    <td><img src="https://github.com/YuliangXiu/PuzzleAvatar/raw/main/assets/optim.gif" height=150px width=240px></td>
+    <td><img src="https://github.com/YuliangXiu/ECON/raw/master/assets/animation.gif" height=150px width=240px></td>
+  </tr>
 </table>
